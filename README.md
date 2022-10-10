@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![zacmarcengill's GitHub stats](https://github-readme-stats.vercel.app/api?username=zacmarcengill)](https://github.com/zacmarcengill/github-readme-stats)
+![zacmarcengill's GitHub stats](https://github-readme-stats.vercel.app/api?username=zacmarcengill)
 
 <!--
 **zacmarcengill/zacmarcengill** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
