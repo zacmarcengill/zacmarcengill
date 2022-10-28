@@ -1,4 +1,4 @@
-Hi! I'm Zac! An acoustician, entrepener, designer turned software developer. I'm currently completing the Software Engineering course at General Assembly. Programming was always the wall that I ran up against in my previous endeavers and I'm learning that maybe it should have been my focus all along. 
+Hi! I'm Zac! An acoustician, entrepreneur, designer turned software developer. I'm currently completing the Software Engineering course at General Assembly. Programming was always the wall that I ran up against in my previous endeavers and I'm learning that maybe it should have been my focus all along. 
 
 ![image](https://user-images.githubusercontent.com/23196638/194915535-f7fc0e08-bdcc-499f-b982-95c9e6c2f624.png)
 
