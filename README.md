@@ -1,6 +1,12 @@
-Hi! I'm Zac! An acoustician, entrepreneur, designer turned software developer. I'm currently completing the Software Engineering course at General Assembly. Programming was always the wall that I ran up against in my previous endeavers and I'm learning that maybe it should have been my focus all along. 
+![dev can save this](https://user-images.githubusercontent.com/23196638/202929419-a4a5e5ba-bae0-4751-910e-62078001c61c.png)
 
-![image](https://user-images.githubusercontent.com/23196638/194915535-f7fc0e08-bdcc-499f-b982-95c9e6c2f624.png)
+<img align="left" width="250" height="250" src="https://user-images.githubusercontent.com/23196638/194915535-f7fc0e08-bdcc-499f-b982-95c9e6c2f624.png"> Hi! I'm Zac! Since 2010 I've been designing recording studios and other acoustic spaces as an Acoustic Engineer. I started an acoustic design and consulting company, [Audio Virtue Acoustics](https://audiovirtue.com), and later designed, engineered and manufacturered acoustic treatment products that we used in our designs. 
+
+Along the way, I became more and more interested in software and less interested in being invovled in construction projects and manufacturing. I took the Software Engineering course at General Assembly and found that my engineering mindset and business soft skills transitions perfectly into a transition into tech. 
+
+I'm currently in the job market looking for my first full time job in as a Full Stack Software Engineer. In the meantime I'm developing an app called [Haven Nanny App](https://github.com/Haven-Nanny-LLC) for my wife's nanny agency with the same name (Haven Nanny Services) and an app called [Streamflow](https://github.com/zacmarcengill/Streamflow-React-App) that I'll be using to help plan safer and more successful fly fishing trips. You can find the links to both below.  
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=zacmarcengill)
 
 <h3>Things I code with</h3>
 <p>
@@ -13,10 +19,10 @@ Hi! I'm Zac! An acoustician, entrepreneur, designer turned software developer. I
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
 
+[![ZacMarcengill](https://github-readme-stats.vercel.app/api?username=zacmarcengill)](https://github.com/zacmarcengill/github-readme-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zacmarcengill&layout=compact)
 
-![zacmarcengill's GitHub stats](https://github-readme-stats.vercel.app/api?username=zacmarcengill)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zacmarcengill&layout=react)
 
 <!--
 **zacmarcengill/zacmarcengill** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
