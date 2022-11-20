@@ -1,4 +1,4 @@
-![dev can save this](https://user-images.githubusercontent.com/23196638/202929419-a4a5e5ba-bae0-4751-910e-62078001c61c.png)
+![banner - Zac Marcengill](https://user-images.githubusercontent.com/23196638/202929606-70620fea-45ba-46fa-a583-260d2532cede.png)
 
 <img align="left" width="250" height="250" src="https://user-images.githubusercontent.com/23196638/194915535-f7fc0e08-bdcc-499f-b982-95c9e6c2f624.png"> Hi! I'm Zac! Since 2010 I've been designing recording studios and other acoustic spaces as an Acoustic Engineer. I started an acoustic design and consulting company, [Audio Virtue Acoustics](https://audiovirtue.com), and later designed, engineered and manufacturered acoustic treatment products that we used in our designs. 
 
@@ -22,7 +22,6 @@ I'm currently in the job market looking for my first full time job in as a Full 
 [![ZacMarcengill](https://github-readme-stats.vercel.app/api?username=zacmarcengill)](https://github.com/zacmarcengill/github-readme-stats)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zacmarcengill&layout=react)
 
 <!--
 **zacmarcengill/zacmarcengill** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
