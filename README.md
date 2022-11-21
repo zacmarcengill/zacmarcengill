@@ -1,11 +1,11 @@
 ![dev can save this  (10)](https://user-images.githubusercontent.com/23196638/203110583-1ad1a36d-21a8-4a54-b614-04138c01a318.png)
 
 
-<img align="left" width="250" height="250" src="https://user-images.githubusercontent.com/23196638/194915535-f7fc0e08-bdcc-499f-b982-95c9e6c2f624.png"> Hi! I'm Zac! From 2010-2022 I had a professional career designing recording studios and other acoustic spaces as an Acoustic Engineer. I started an acoustic design and consulting company, [Audio Virtue Acoustics](https://audiovirtue.com), and later designed, engineered and manufacturered acoustic treatment products that we used in our designs. 
+<img align="left" width="250" height="250" src="https://user-images.githubusercontent.com/23196638/194915535-f7fc0e08-bdcc-499f-b982-95c9e6c2f624.png"> Hi! I'm Zac! From 2010-2022 I had a professional career designing recording studios and other acoustic spaces as an Acoustic Engineer. I started an acoustic design and consulting company, [Audio Virtue Acoustics](https://audiovirtue.com), and later designed and manufacturered acoustic treatment products that we used in our designs. 
 
-Along the way, I became more and more interested in software and less interested in being invovled in construction projects and manufacturing. I took the Software Engineering course at General Assembly and found that my engineering mindset and business soft skills transitions perfectly into a transition into tech. 
+Along the way, I became more and more interested in software and less interested in being invovled in construction projects and manufacturing. I took the Software Engineering course at General Assembly and found that my engineering mindset, experience with project collaboration, and a curiousity to learn new technologies translate perfectly into a new career in tech. 
 
-I'm currently looking for a full time position as a Full Stack Software Engineer. In the meantime I'm developing an app called [Haven Nanny App](https://github.com/Haven-Nanny-LLC) for my wife's nanny agency with the same name (Haven Nanny Services) and an app called [Streamflow](https://github.com/zacmarcengill/Streamflow-React-App) that I'll be using to help plan safer and more successful fly fishing trips.
+I'm currently looking for a full time position as a Full Stack Software Engineer. In the meantime, I'm developing an app called [Haven Nanny App](https://github.com/Haven-Nanny-LLC) for my wife's nanny agency and an app called [Streamflow](https://github.com/zacmarcengill/Streamflow-React-App) that I use to help plan safer and more successful fly fishing trips.
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=zacmarcengill)
 
