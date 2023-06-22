@@ -1,7 +1,3 @@
-![dev can save this  (14)](https://user-images.githubusercontent.com/23196638/203136112-2be93824-ddd7-4b62-8dd3-bc0c7f390380.png)
-
-
-
 <img align="left" width="250" height="250" src="https://user-images.githubusercontent.com/23196638/194915535-f7fc0e08-bdcc-499f-b982-95c9e6c2f624.png"> Hi! I'm Zac! Since 2010 I've had a professional career designing recording studios and other acoustic spaces as an Acoustician. I started an acoustic design and consulting company, [Audio Virtue Acoustics](https://audiovirtue.com), and later designed and manufacturered acoustic treatment products that we used in our designs. We've since moved away from product manufacturing to focus on acoustic design, acoustic education, content creation, and software develop of an app that will produce acoustic and sound isolation design for recording studios for the DIYers, contractors, architects and interior designers. 
 
 In 2022 I took the Software Engineering course at General Assembly and found that my engineering mindset, experience with project collaboration, and a curiousity to learn new technologies translate perfectly into a great focus in tech as a business model and as a potential future career path. 
